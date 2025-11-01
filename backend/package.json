@@ -1,16 +1,17 @@
 {
   "name": "backend",
   "version": "1.0.0",
-  "description": "Firebase",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [
-    "ml",
-    "python",
-    "firebase"
+    "ML",
+    "Python",
+    "Firebase",
+    "React"
   ],
   "author": "Certified_Spammers",
-  "license": "MIT"
+  "license": "MIT",
+  "description": ""
 }
